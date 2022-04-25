@@ -9,8 +9,7 @@ Out of the box you'll get an app layout with chrome (header/sidebar), routing, b
 ## Quick-start
 
 ```bash
-git clone https://github.com/patternfly/patternfly-react-seed
-cd patternfly-react-seed
+git clone https://github.com/indraraj/ui-training
 npm install && npm run start:dev
 ```
 ## Development scripts
